@@ -1,0 +1,106 @@
+.head {
+    margin-left: 25px;
+}
+
+.colorList {
+    margin: 20px;
+}
+
+.red {
+    background-color: darkred;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    float: left;
+    margin: 5px;
+
+}
+
+.green {
+    background-color: forestgreen;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    float: left;
+    display: block;
+    margin: 5px;
+}
+
+.blue {
+    background-color: darkblue;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    float: left;
+    display: block;
+    margin: 5px;
+}
+
+.cyan {
+    background-color: darkcyan;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    float: left;
+    display: block;
+    margin: 5px;
+}
+
+.magenta {
+    background-color: darkmagenta;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    float: left;
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
+
+.yellow {
+    background-color: #cdba1b;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    float: left;
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
+
+.black {
+    background-color: #161616;
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    float: left;
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
